@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/TattoIlDucio/static/css/main.65f31288.css",
-    "main.js": "/TattoIlDucio/static/js/main.23b47a6e.js",
+    "main.css": "/TattoIlDucio/static/css/main.5c017cb0.css",
+    "main.js": "/TattoIlDucio/static/js/main.7690b99c.js",
     "static/js/453.09ed972e.chunk.js": "/TattoIlDucio/static/js/453.09ed972e.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/TattoIlDucio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/TattoIlDucio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/TattoIlDucio/index.html",
-    "main.65f31288.css.map": "/TattoIlDucio/static/css/main.65f31288.css.map",
-    "main.23b47a6e.js.map": "/TattoIlDucio/static/js/main.23b47a6e.js.map",
+    "main.5c017cb0.css.map": "/TattoIlDucio/static/css/main.5c017cb0.css.map",
+    "main.7690b99c.js.map": "/TattoIlDucio/static/js/main.7690b99c.js.map",
     "453.09ed972e.chunk.js.map": "/TattoIlDucio/static/js/453.09ed972e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65f31288.css",
-    "static/js/main.23b47a6e.js"
+    "static/css/main.5c017cb0.css",
+    "static/js/main.7690b99c.js"
   ]
 }
