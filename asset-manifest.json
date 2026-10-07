@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TattoIlDucio/static/css/main.65f31288.css",
+    "main.js": "/TattoIlDucio/static/js/main.23b47a6e.js",
+    "static/js/453.09ed972e.chunk.js": "/TattoIlDucio/static/js/453.09ed972e.chunk.js",
+    "index.html": "/TattoIlDucio/index.html",
+    "main.65f31288.css.map": "/TattoIlDucio/static/css/main.65f31288.css.map",
+    "main.23b47a6e.js.map": "/TattoIlDucio/static/js/main.23b47a6e.js.map",
+    "453.09ed972e.chunk.js.map": "/TattoIlDucio/static/js/453.09ed972e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f31288.css",
+    "static/js/main.23b47a6e.js"
+  ]
+}
